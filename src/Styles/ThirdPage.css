@@ -1,0 +1,42 @@
+#logo {
+  display: flex;
+  align-items: flex-start;
+  justify-content: center;
+  height: 100px;
+  margin: 20px;
+}
+.cnt1 img {
+  height: 60px;
+  margin: 10px;
+  margin-top: -10px;
+}
+.cnt1 h1 {
+  font-family: "Roboto", sans-serif;
+  font-size: 280%;
+  font-weight: 500;
+  margin-bottom: 20px;
+}
+#sub {
+  font-family: "Shadows Into Light", cursive;
+  font-weight: 600;
+  font-style: normal;
+  color: rgb(48, 156, 48);
+  font-size: xx-large;
+  margin: 18px 0px;
+}
+.cnt1 p {
+  font-family: "Roboto", sans-serif;
+  color: gray;
+  font-weight: 300;
+  font-size: x-large;
+  margin: 10px 0px;
+}
+.countdwn {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  margin-top: 10%;
+}
+.countdwn p {
+  margin-right: 10px;
+}

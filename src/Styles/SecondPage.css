@@ -1,0 +1,62 @@
+.navbar1 {
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+  margin: 0px 30px;
+}
+h1{
+    font-weight: 600;
+    margin-bottom: -10px;
+}
+#I1 {
+  height: 100px;
+}
+
+#I2 {
+  height: 40px;
+  margin-top: 10px;
+}
+
+#Regiform {
+  font-family: "Shadows Into Light", cursive;
+  font-weight: 900;
+  font-style: normal;
+  color: rgb(40, 185, 40);
+  font-size: x-large;
+}
+
+.secondpage input {
+  border: none;
+  width: 220px;
+  padding: 15px 15px;
+  border-radius: 19px;
+  background-color: rgba(220, 220, 220, 0.411);
+}
+
+.secondpage input:hover {
+  border: 1px solid rgb(47, 114, 238);
+}
+
+#I3 {
+  margin: 15px 0px;
+  margin-top: 50px;
+}
+
+#I5 {
+  color: white;
+}
+
+.secondpage button {
+  border: none;
+  padding: 15px 15px;
+  border-radius: 19px;
+  width: 245px;
+  margin-top: 20px;
+  background-color: gainsboro;
+  color: white;
+}
+
+.secondpage button:hover {
+  background-color: black;
+  color: white;
+}
